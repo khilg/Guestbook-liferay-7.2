@@ -1,1 +1,1 @@
-# Guestbook-liferay-7.2
+# Guestbook-liferay-7.2 - check access
